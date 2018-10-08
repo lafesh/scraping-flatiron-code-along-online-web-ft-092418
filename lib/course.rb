@@ -7,8 +7,8 @@ class Course
     @@all 
   end 
   
-  def self.reset_all
-    @@all.clear
-  end 
+  #def self.reset_all
+    #@@all.clear
+  #end 
 end 
 
