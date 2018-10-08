@@ -21,6 +21,7 @@ class Scraper
  
  def make_courses(title, schedule, description)
    self.get_courses.each do |post|
+     
  end 
  
  def print_courses
